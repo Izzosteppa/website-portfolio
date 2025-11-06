@@ -36,7 +36,7 @@ const Projects = () => {
     },
     {
       title: 'E-commerce Website Enhancement',
-      description: 'Enhanced Elogim Baby Land website with improved UX/UI, mobile responsiveness, and e-commerce features, achieving 30% increase in visitor retention.',
+      description: 'Enhanced Elohim Baby Land website with improved UX/UI, mobile responsiveness, and e-commerce features, achieving 30% increase in visitor retention.',
       tech: ['HTML', 'CSS', 'JavaScript', 'Mobile Optimization', 'Third-party APIs'],
       image: 'https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800&h=600&fit=crop',
       github: 'https://github.com/izzosteppa',

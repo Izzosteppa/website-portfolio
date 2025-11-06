@@ -18,7 +18,7 @@ const Experience = () => {
     },
     {
       title: 'Web Developer',
-      company: 'Elogim Baby Land',
+      company: 'Elohim Baby Land',
       period: 'Aug 2024 - Dec 2024',
       description: 'Enhanced company website and developed e-commerce features, focusing on user experience and mobile optimization.',
       achievements: [
